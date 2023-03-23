@@ -26,6 +26,7 @@ sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
 java -version
 git --version
 ```
+sudo yum update
 
 ## 2. Download, extract and Install Maven
 ``` sh
